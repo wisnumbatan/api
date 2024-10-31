@@ -4,11 +4,16 @@ from datetime import datetime
 
 # Data contoh produk smartphone yang lebih lengkap
 smartphone_products = [
-    {"id": "1", "name": "Smartphone A", "description": "Smartphone dengan kamera 48MP dan RAM 6GB.", "price": 2500000},
-    {"id": "2", "name": "Smartphone B", "description": "Kinerja cepat dengan prosesor terbaru.", "price": 3000000},
-    {"id": "3", "name": "Smartphone C", "description": "Desain premium dengan layar AMOLED.", "price": 3500000},
-    {"id": "4", "name": "Smartphone D", "description": "Baterai tahan lama dengan pengisian cepat.", "price": 2000000},
-    {"id": "5", "name": "Smartphone E", "description": "Smartphone gaming dengan refresh rate tinggi.", "price": 4000000}
+    {"id": "1", "name": "Samsung Galaxy S23", "description": "Smartphone dengan layar AMOLED 6.1 inci, RAM 8GB, dan kamera 50MP.", "price": 14500000},
+    {"id": "2", "name": "iPhone 14", "description": "Smartphone dengan chip A15 Bionic, kamera 12MP, dan desain premium.", "price": 15000000},
+    {"id": "3", "name": "Google Pixel 7", "description": "Smartphone dengan kemampuan AI canggih, kamera 50MP, dan pengalaman Android murni.", "price": 12000000},
+    {"id": "4", "name": "Xiaomi 13 Pro", "description": "Smartphone dengan Snapdragon 8 Gen 2, RAM 12GB, dan kamera 50MP.", "price": 13000000},
+    {"id": "5", "name": "OnePlus 11", "description": "Smartphone dengan pengisian cepat 100W, RAM 16GB, dan layar AMOLED 6.7 inci.", "price": 12000000},
+    {"id": "6", "name": "Oppo Find X5", "description": "Smartphone dengan desain elegan, RAM 12GB, dan kamera 50MP.", "price": 13000000},
+    {"id": "7", "name": "Sony Xperia 1 IV", "description": "Smartphone dengan layar 4K HDR dan kemampuan fotografi profesional.", "price": 18000000},
+    {"id": "8", "name": "Vivo X80 Pro", "description": "Smartphone dengan Zeiss optics, kamera 50MP, dan RAM 12GB.", "price": 14000000},
+    {"id": "9", "name": "Realme GT 2 Pro", "description": "Smartphone dengan Snapdragon 8 Gen 1 dan layar AMOLED 6.7 inci.", "price": 11000000},
+    {"id": "10", "name": "Nokia G50", "description": "Smartphone dengan konektivitas 5G, baterai 5000mAh, dan kamera 48MP.", "price": 3000000}
 ]
 
 # Detail produk yang lebih lengkap
